@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning game programming
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 Email id: karmakar.suman38@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 I am interested in making games. I am in the process of learning and making games in Java. 
